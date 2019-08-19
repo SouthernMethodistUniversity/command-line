@@ -34,7 +34,7 @@ Before you leave today, we're going to prepare a little for our upcoming session
 
 ```
 $ pwd
-/Users/jojo/Desktop/projects
+/Users/egodat/Desktop/projects
 $ mkdir cheatsheets
 $ mkdir databases
 ```
