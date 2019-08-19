@@ -31,7 +31,7 @@ Your computer's files are organized in what's known as a hierarchical filesystem
 ```
 Users
 |
--- jojokarlin
+-- egodat
   |
   -- Applications
   -- Desktop
@@ -48,11 +48,11 @@ OK, let's try a command that tells us where we are in the filesystem:
 $ pwd
 ```
 
-You should get output like `/Users/jojo`. That means you're in the `jojo` directory in the `Users` folder inside the `/` or root directory. On Windows, your output would instead be `C:/Users/jojo`. The folder you're in is called the working directory, and `pwd` stands for "print working directory."
+You should get output like `/Users/egodat`. That means you're in the `egodat` directory in the `Users` folder inside the `/` or root directory. On Windows, your output would instead be `C:/Users/egodat`. The folder you're in is called the working directory, and `pwd` stands for "print working directory."
 
 The command `pwd` won't actually print anything except on your screen. This command is easier to grasp when we interpret "print" as "display."
 
-OK, we know where we are. But what if we want to know what files and folders are in the `jojo` directory, a.k.a. the working directory? 
+OK, we know where we are. But what if we want to know what files and folders are in the `egodat` directory, a.k.a. the working directory? 
 
 Try entering:
 
@@ -74,7 +74,7 @@ So how do we know it worked? That's right, let's use our `pwd` command again. We
 
 ```
 $ pwd
-/Users/jojo/Desktop
+/Users/egodat/Desktop
 ```
 
 Now try `ls` again to see what's on your desktop. These three commands—`pwd`, `ls`, and `cd`—are the most commonly used in the terminal. Between them, you can orient yourself and move around. 
