@@ -25,7 +25,7 @@ Now let's check the contents of the directory:
 
 ```
 $ pwd
-/Users/jojo/projects
+/Users/egodat/projects
 $ ls
 cheat-sheet.txt
 ```
