@@ -10,7 +10,7 @@ First, make sure you're in the home directory:
 
 ```
 $ pwd
-/Users/jojo
+/Users/egodat
 ```
 
 Let's move to the Desktop folder, or "change directory" with `cd`:
@@ -41,7 +41,7 @@ First, let's check to make sure we're still in the Desktop folder with `pwd`:
 
 ```
 $ pwd
-/Users/jojo/Desktop
+/Users/egodat/Desktop
 ```
 
 Once you've double-checked you're in Desktop, we'll use the `mkdir` or "make directory" command to make a folder called "projects":
@@ -55,7 +55,7 @@ Now run `ls` to see if a projects folder has appeared. Once you confirm that the
 ```
 $ cd projects
 $ pwd
-/Users/jojo/Desktop/projects
+/Users/egodat/Desktop/projects
 ```
 
 OK, now you've got a projects folder that you can use throughout the Institute. It should be visible on your graphical desktop, just like the `foo.txt` file we created earlier. 
