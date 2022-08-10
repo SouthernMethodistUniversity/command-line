@@ -1,3 +1,5 @@
+This repo has been archived. Please see the [SMU@DHRI website](https://www.smu.edu/dhri) for the most current information.    
+
 # Introduction to the Command Line
 
 By this point in our academic careers, most of us have figured out some ways we like to interact with computers. Whether that involves avoiding them as much as possible or constantly testing new software, we likely have some ideas about how we feel comfortable getting things done. How would you show a person who had never seen a computer, say [Kimmy Schmidt](https://youtu.be/LIdFa1qLgNQ) or [Brendan Fraser in *Blast from the Past*](https://youtu.be/Xq29uTtKW4M), how to *do* something on your computer? 
